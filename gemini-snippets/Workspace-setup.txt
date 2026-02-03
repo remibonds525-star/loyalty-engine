@@ -1,0 +1,15 @@
+Step 1: The Workspace Setup
+    Folders
+backend: Where the brain lives (Node.js, Database logic).
+frontend: Where the art lives (React, CSS, Game UI).
+assets: Where you’ll store your custom artwork and icons.
+docs: Where we’ll keep our notes so we don't forget our own rules
+gemini-snippets: Where you'll keep notes from gemini so you can stay better organized and remember things.
+
+Step 2: The Database (The Foundation)
+    How to:
+1    Go to Supabase.com and create a free account.
+    
+2    Create a new project named "LoyaltySite".
+    
+3    Go to the SQL Editor tab on the left.
